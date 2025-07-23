@@ -1,1 +1,1 @@
-return "key123"
+key123
